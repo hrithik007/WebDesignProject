@@ -1,0 +1,141 @@
+.header-full-title h1 {
+    font-family: "Muli";
+    word-spacing: -7px;
+    color: black;
+    font-size: 32px;
+    text-align: center;
+}
+#brand {
+    margin-right:15rem ;
+}
+#navbar-nav #nav-link {
+    padding-right: 5.5rem;
+    padding-left: 4.5rem;
+}
+.slider {
+    max-width: 1920px;
+    max-height: 400px;
+}
+
+.hover :hover{
+    color: aqua ;
+}
+.navbg {
+    background-color:rgb(255, 255, 255);
+    /* background-color:#e3f2fd; */
+}
+#mk-breadcrumbs {
+    background-color: #deeeed;
+}
+#mk-breadcrumbs .mk-breadcrumbs-inner {
+    font-size: 13px;
+    display: block;
+    float: none;
+    margin: 0 auto;
+    max-width: 1140px;
+    padding: 2em 0;
+    text-align: right;
+    text-transform: none;
+    width: 100%;
+}
+#mk-breadcrumbs .mk-breadcrumbs-inner.light-skin {
+    color: #919191;
+}
+#mk-breadcrumbs .mk-breadcrumbs-inner {
+    line-height: 11px;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+#mk-breadcrumbs .mk-breadcrumbs-inner .breadcrumb_last {
+    color: #003764;
+    font-size: 13px;
+}
+.caption1 {
+    position: absolute;
+     bottom: 36.5rem;
+    z-index: 10;
+    white-space: normal;
+    font-size: 20px;
+    line-height: 17px;
+    font-weight: 900;
+    color: bisque;
+    font-family: Roboto;
+    background-color: rgba(249, 74, 53, 0);
+    letter-spacing: 2px;
+    visibility: inherit;
+    transition: none 0s ease 0s;
+    text-align: center;
+    border-width: 0px;
+    margin: 0px;
+    padding: 0px;
+    min-height: 0px;
+    min-width: 0px;
+    max-height: none;
+    max-width: inherit;
+    opacity: 1;
+    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    transform-origin: 50% 50% 0px;
+           text-shadow: 4px 0.1px 4px   #2420208f;
+}
+
+.caption {
+    position: absolute;
+     bottom: 35rem;
+    z-index: 10;
+    white-space: normal;
+    font-size: 20px;
+    line-height: 17px;
+    font-weight: 900;
+    color: rgb(250, 217, 177);
+    font-family: Roboto;
+    background-color: rgba(249, 74, 53, 0);
+    letter-spacing: 2px;
+    visibility: inherit;
+    transition: none 0s ease 0s;
+    text-align: center;
+    border-width: 0px;
+    margin: 0px;
+    padding: 0px;
+    min-height: 0px;
+    min-width: 0px;
+    max-height: none;
+    max-width: inherit;
+    opacity: 1;
+    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    transform-origin: 50% 50% 0px;
+        text-shadow: 4px 1.1px 8px   black;
+
+}
+/* 
+.signup {
+    position: absolute;
+    bottom: 30.8rem;
+    left: 43rem;
+} */
+.signup :hover{
+    color: #2c8bd8d0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
