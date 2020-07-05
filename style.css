@@ -113,9 +113,7 @@
     bottom: 30.8rem;
     left: 43rem;
 } */
-.signup :hover{
-    color: #2c8bd8d0;
-}
+
 .heading3 {
     background-color: #eeeeee;
 }
@@ -134,11 +132,70 @@ background-color: #eeeeee;
     background-color: #deeeed;
 }
 
-.signup .hover {
-    color: brown;
+.signup{
+    position: relative;
+     bottom: 65px ; 
+     left: 22%; 
+     width: 188px; 
+     font-size: 13px; 
+     line-height: 12px; 
+     font-weight: 900; 
+     color: rgb(0, 37, 81); 
+     font-family: Roboto; 
+     background-color: rgba(236, 219, 219, 0.815); 
+     border-color: rgb(0, 37, 81); 
+     border-style: solid; 
+     border-width: 1px; 
+     outline: none; 
+     box-sizing: border-box; 
+     letter-spacing: 2px; 
+     cursor: pointer; 
+     margin: 0px; 
+     padding: 10px 12px;
+}
+.signup:hover {
+    background-color:  rgba(235, 39, 39, 0.836);
+    color: white;
 
 }
 
+
+.heading4  {
+  animation-duration: 2s;
+  animation-name: slidein;
+  overflow: hidden;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-right: 0%;
+    width: 100%;
+  }
+}
+
+
+
+.heading3 p {
+  animation-duration: 3s;
+  animation-name: slidein;
+  
+}
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
 
 
 
