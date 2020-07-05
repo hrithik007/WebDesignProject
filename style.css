@@ -6,7 +6,7 @@
     text-align: center;
 }
 #brand {
-    margin-right:15rem ;
+    margin-right:9rem ;
 }
 #navbar-nav #nav-link {
     padding-right: 5.5rem;
@@ -130,9 +130,9 @@ background-color: #eeeeee;
 
 }
 
-
-
-
+.heading4 {
+    background-color: #deeeed;
+}
 
 
 
